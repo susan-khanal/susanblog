@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powershell on Terminal</title>
+    <link>/tags/powershell/</link>
+    <description>Recent content in Powershell on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>another test one</title>
+      <link>/posts/trying-to-use-ps-script-to-automate-the-push-to-git./</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/trying-to-use-ps-script-to-automate-the-push-to-git./</guid>
+      <description>&lt;p&gt;Just another powershell script testing.&lt;/p&gt;&#xA;&lt;p&gt;But I do need to find a way to automate cloudflare to pull the code and rebuild the pages and deploying to global networks. lets see&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250705211852.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

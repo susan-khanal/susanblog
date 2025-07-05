@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>another test one</title>
+      <link>/posts/trying-to-use-ps-script-to-automate-the-push-to-git./</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/trying-to-use-ps-script-to-automate-the-push-to-git./</guid>
+      <description>&lt;p&gt;Just another powershell script testing.&lt;/p&gt;&#xA;&lt;p&gt;But I do need to find a way to automate cloudflare to pull the code and rebuild the pages and deploying to global networks. lets see&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250705211852.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>blogtitle</title>
       <link>/posts/setting-up-obsidian-and-hugo-to-create-my-blogpost/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
@@ -20,14 +27,14 @@
       <link>/posts/testing-if-i-can-automate-the-changes/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/posts/testing-if-i-can-automate-the-changes/</guid>
-      <description>&lt;p&gt;Hi, this is my test note, to see if I can automate the deployment into cloudflare pages.&lt;/p&gt;&#xA;&lt;p&gt;but for now, just the normal changes&lt;/p&gt;&#xA;&lt;p&gt;![[Pasted image 20250705210750.png]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, this is my test note, to see if I can automate the deployment into cloudflare pages.&lt;/p&gt;&#xA;&lt;p&gt;but for now, just the normal changes&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250705210750.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>blogtitle</title>
       <link>/posts/another-test-file/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/posts/another-test-file/</guid>
-      <description>&lt;p&gt;Just trying to do a test with Template&#xA;![[Pasted image 20250705144124.png]]![[Pasted image 20250705144349.png]]&lt;/p&gt;&#xA;&lt;p&gt;robocopy sourcepath destination path /mir&lt;/p&gt;&#xA;&lt;p&gt;robocopy &amp;ldquo;C:\Obsidian\BlogPost\BlogPost&amp;rdquo; &amp;ldquo;C:\Users\susan\Documents\susanblog\content\posts&amp;rdquo;/mir&lt;/p&gt;</description>
+      <description>&lt;p&gt;Just trying to do a test with Template&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250705144124.png&#34; alt=&#34;Image Description&#34;&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250705144349.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;robocopy sourcepath destination path /mir&lt;/p&gt;&#xA;&lt;p&gt;robocopy &amp;ldquo;C:\Obsidian\BlogPost\BlogPost&amp;rdquo; &amp;ldquo;C:\Users\susan\Documents\susanblog\content\posts&amp;rdquo;/mir&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

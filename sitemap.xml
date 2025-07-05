@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/trying-to-use-ps-script-to-automate-the-push-to-git./</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/automation/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,12 @@
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/powershell/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/susan-khanal/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/susankhanal/</loc>
