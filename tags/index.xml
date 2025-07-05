@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Blog</title>
       <link>/tags/blog/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
@@ -27,6 +34,13 @@
       <link>/tags/susankhanal/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/tags/susankhanal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webhook</title>
+      <link>/tags/webhook/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/webhook/</guid>
       <description></description>
     </item>
     <item>
