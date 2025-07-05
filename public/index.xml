@@ -27,7 +27,7 @@
       <link>/posts/just-adding-another-test-blogs/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/posts/just-adding-another-test-blogs/</guid>
-      <description>&lt;p&gt;Hey, just another test&#xA;Cheers&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hey, just another test&#xA;Cheers&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250705213909.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing if I can automate the changes</title>
