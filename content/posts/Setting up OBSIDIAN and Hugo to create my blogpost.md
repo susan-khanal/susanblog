@@ -17,7 +17,7 @@ So, I'll be dumping all of my learnings throughout my career here in my blogpost
 # From where am I following this process?
 I'm following the same process as networkchuck did in his youtube channel. It seems pretty simple and straightforward if we follow the steps that he've done. 
  
-![[Pasted image 20250705143005.png]]
+!![Image Description](/images/Pasted%20image%2020250705143005.png)
 
 ## Tests
 I'm doing some testing and making changes so that I know the changes is being pushed to Git..

@@ -8,7 +8,7 @@ tags:
 ---
 
 Just trying to do a test with Template
-![[Pasted image 20250705144124.png]]![[Pasted image 20250705144349.png]]
+!![Image Description](/images/Pasted%20image%2020250705144124.png)!![Image Description](/images/Pasted%20image%2020250705144349.png)
 
 robocopy sourcepath destination path /mir
 

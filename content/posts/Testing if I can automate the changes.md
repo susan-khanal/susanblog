@@ -10,4 +10,4 @@ Hi, this is my test note, to see if I can automate the deployment into cloudflar
 
 but for now, just the normal changes
 
-![[Pasted image 20250705210750.png]]
+!![Image Description](/images/Pasted%20image%2020250705210750.png)
